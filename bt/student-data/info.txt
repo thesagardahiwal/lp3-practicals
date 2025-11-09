@@ -1,0 +1,69 @@
+Step 1: Open Remix IDE
+
+Go to https://remix.ethereum.org
+.
+
+Create a new file called Student.sol.
+
+Explanation:
+
+struct Student → stores student details.
+
+Student[] students → dynamic array to store multiple students.
+
+addStudent() → adds a new student.
+
+getStudent() → fetches student details by index.
+
+fallback() → allows contract to accept Ether.
+
+getContractBalance() → checks balance of contract.
+
+Step 3: Compile the Contract
+
+Click Solidity Compiler → Compile Student.sol.
+
+Make sure there are no errors.
+
+Step 4: Deploy on Test Network
+
+Click Deploy & Run Transactions → Environment → Injected Provider - MetaMask.
+
+Connect MetaMask to Remix.
+
+Make sure MetaMask is on a test network (Goerli or Sepolia).
+
+Click Deploy → Confirm in MetaMask.
+
+Wait for deployment to finish. You’ll see Contract Address in Remix.
+
+Step 5: Interact with the Contract
+
+Add Students
+
+Select addStudent → enter _id, _name, _age, _course → Transact → Confirm in MetaMask.
+
+Observe Gas used and Transaction fee in MetaMask.
+
+Check Student Count
+
+Click getStudentCount → Call → shows number of students.
+
+Get Student Details
+
+Click getStudent → enter index → Call → shows student info.
+
+Send ETH to Contract
+
+Send small ETH via fallback function.
+
+Check getContractBalance() → Call → shows contract balance.
+
+Step 6: Record Gas and Transaction Fees
+
+You can create a table in your practical report:
+
+Operation	Gas Used	Transaction Fee (ETH)	Notes
+Deploy Contract	112,000	0.00021	Deployment
+Add Student	45,000	0.00008	Student addition
+Send ETH to Fallback	21,000	0.00004	Accept Ether

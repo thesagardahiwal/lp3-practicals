@@ -1,0 +1,88 @@
+Step 1: Installing MetaMask
+Choose a Browser
+MetaMask works on Chrome, Firefox, Edge, and Brave.
+Open your browser and go to https://metamask.io.
+
+
+Download & Install
+Click “Download” → Choose your browser.
+Install the extension.
+
+Set Up MetaMask Wallet
+
+After installation, click the MetaMask icon in your browser toolbar.
+
+Select “Get Started” → “Create a Wallet”.
+
+Set a strong password.
+
+Backup your Secret Recovery Phrase safely (don’t share it with anyone).
+
+Confirm the recovery phrase.
+
+✅ Now your wallet is ready.
+
+Step 2: Add Test Ether
+
+For studying transaction costs, use the Ethereum testnet to avoid spending real money.
+
+Switch to a Test Network
+
+Open MetaMask → Click the network dropdown at the top (it usually says “Ethereum Mainnet”).
+
+Select “Goerli Test Network” (or Sepolia).
+
+Get Test Ether
+
+Go to a faucet website for the testnet:
+
+Goerli faucet: https://faucet.goerli.mudit.blog/
+
+Sepolia faucet: https://faucet.sepolia.dev/
+
+Enter your wallet address (MetaMask → click account name to copy).
+
+Receive test Ether (it’s free).
+
+Step 3: Study Spending Ether per Transaction
+
+Each Ethereum transaction costs gas, which is paid in Ether.
+
+Send a Small Transaction
+
+Open MetaMask → Click “Send”.
+
+Enter a recipient address (can be your own secondary wallet address for testing).
+
+Enter a small amount (e.g., 0.01 ETH).
+
+Choose “Low / Medium / High” gas fees and notice the difference.
+
+Click “Next” → “Confirm”.
+
+Observe Gas Fee
+
+After sending, MetaMask will show:
+
+Transaction Fee (in ETH)
+
+Gas Used
+
+Total Cost
+
+You can also check on the block explorer:
+
+Go to https://goerli.etherscan.io
+ (or Sepolia explorer)
+
+Paste your transaction hash.
+
+Look at Gas Price, Gas Used, and Transaction Fee.
+
+Experiment
+
+Try different gas settings.
+
+Send different amounts of Ether.
+
+Record how the transaction fee changes.

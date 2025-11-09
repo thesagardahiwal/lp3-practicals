@@ -1,0 +1,116 @@
+Survey Report: Types of Blockchains and Real-Time Use Cases
+1. Introduction
+
+Blockchain is a decentralized, distributed ledger technology that records transactions across multiple nodes in a secure, transparent, and tamper-proof way. It is the underlying technology behind cryptocurrencies like Bitcoin and Ethereum, but its applications extend far beyond digital currencies. This report explores the types of blockchains and their real-world use cases.
+
+2. Types of Blockchains
+
+Blockchain networks are categorized based on access, governance, and participation. The main types are:
+
+2.1 Public Blockchain
+
+Definition: Open and permissionless blockchains where anyone can join, read, write, and validate transactions.
+
+Characteristics:
+
+Decentralized and transparent
+
+Secure due to consensus mechanisms (Proof of Work, Proof of Stake)
+
+No central authority controlling the network
+
+Examples: Bitcoin, Ethereum, Litecoin
+
+Real-Time Use Cases:
+
+Cryptocurrencies: Bitcoin, Ethereum
+
+Decentralized Finance (DeFi): Lending, borrowing, and trading without intermediaries
+
+NFT Platforms: Open marketplaces for digital art and collectibles
+
+2.2 Private Blockchain
+
+Definition: Permissioned blockchain with restricted access, usually managed by a single organization or consortium.
+
+Characteristics:
+
+Faster transaction speeds
+
+More control over participants and data privacy
+
+Suitable for enterprise use
+
+Examples: Hyperledger Fabric, R3 Corda, Quorum
+
+Real-Time Use Cases:
+
+Supply Chain Management: Tracking shipments, verifying authenticity
+
+Enterprise Data Sharing: Secure internal record-keeping
+
+Banking and Finance: Cross-border payments and trade finance
+
+2.3 Consortium (Federated) Blockchain
+
+Definition: Partially decentralized blockchain governed by a group of organizations rather than a single entity.
+
+Characteristics:
+
+Controlled by a pre-selected set of nodes
+
+Combines benefits of public and private blockchains
+
+Efficient and energy-saving compared to public blockchains
+
+Examples: Energy Web Foundation, IBM Food Trust
+
+Real-Time Use Cases:
+
+Interbank Transactions: Banks collaborating on a shared ledger
+
+Healthcare Data Exchange: Multiple hospitals sharing anonymized patient data
+
+Supply Chain Networks: Consortium of suppliers and manufacturers tracking goods
+
+2.4 Hybrid Blockchain
+
+Definition: Combines features of public and private blockchains, allowing selective access.
+
+Characteristics:
+
+Controlled access for private operations
+
+Public transparency where needed
+
+Flexible and scalable
+
+Examples: Dragonchain, XinFin
+
+Real-Time Use Cases:
+
+Government Services: Public access to non-sensitive data and restricted access to sensitive data
+
+Real Estate: Public property listings and private ownership records
+
+Healthcare: Patient data shared with authorized medical staff while public health statistics remain visible
+
+3. Comparison Table of Blockchain Types
+Type	Access	Governance	Use Cases	Examples
+Public	Open	Decentralized	Cryptocurrency, DeFi, NFTs	Bitcoin, Ethereum
+Private	Restricted	Centralized	Enterprise data, supply chain	Hyperledger, Corda
+Consortium	Semi-Open	Group-controlled	Interbank networks, healthcare	Energy Web, IBM Food Trust
+Hybrid	Mixed	Mixed	Government, healthcare, real estate	Dragonchain, XinFin
+4. Conclusion
+
+Blockchain technology is versatile and can be adapted to different needs. Public blockchains are ideal for open, trustless systems, while private and consortium blockchains suit enterprise and regulated environments. Hybrid blockchains offer a balance between transparency and privacy. Real-time applications across finance, supply chain, healthcare, and government highlight blockchain’s transformative potential.
+
+References
+
+Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.
+
+Hyperledger Fabric Documentation. https://www.hyperledger.org/use/fabric
+
+IBM Blockchain Solutions. https://www.ibm.com/blockchain
+
+Ethereum Whitepaper. https://ethereum.org/en/whitepaper/
